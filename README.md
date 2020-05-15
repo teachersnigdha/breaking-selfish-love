@@ -30,4 +30,10 @@ The cost of love, is incomparable,
 Breaking selfish love.
 ```
 
+> Styles: [English], [Odia], [Translated].
+
 - Snigdharani Sahu
+
+[English]: README.md
+[Odia]: odia.md
+[Translated]: translated.md
