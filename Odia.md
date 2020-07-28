@@ -1,4 +1,4 @@
-![](assets/img/different-nationalities-2633028_1920.jpg)
+![](assets/img/different-nationalities-2633028_1920.png)
 
 > Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
 > [Click here to listen](https://soundcloud.com/teachersnigdha/breaking-selfish-love).
