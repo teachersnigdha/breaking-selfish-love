@@ -1,3 +1,8 @@
+![](assets/img/different-nationalities-2633028_1920.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://soundcloud.com/teachersnigdha/breaking-selfish-love).
+
 ```
 Brothers and friends, had become different,
 Today they reunite,
@@ -30,10 +35,5 @@ The cost of love, is incomparable,
 Breaking selfish love.
 ```
 
-> Styles: [English], [Odia], [Translated].
-
-- Snigdharani Sahu
-
-[English]: README.md
-[Odia]: odia.md
-[Translated]: translated.md
+- Poem by Snigdharani Sahoo
+- Image by Alexas_Fotos from Pixabay
